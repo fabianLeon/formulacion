@@ -6,8 +6,8 @@
 \usepackage[utf8]{inputenc}
 \usepackage{color}
 \usepackage{float}
-
-\usepackage{xcolor} 
+\usepackage{multirow, array}
+\usepackage[table,xcdraw]{xcolor} 
 \usepackage{diagbox}
 \usepackage{longtable}
 \usepackage{colortbl}
@@ -32,7 +32,7 @@
 %---- Paquetes para los pies de las tablas
 \usepackage{caption}
 \usepackage{subcaption}
-\usepackage{multirow, array}
+
 \usepackage[left=2.54cm,top=2.54cm,right=2.54cm,bottom=2.54cm]{geometry} %Definimos los Margenes
 \setcounter{secnumdepth}{4}
 
@@ -249,5 +249,4 @@ En la tabla \ref{dofa}, se muestra la matriz DOFA del proyecto planteado.
 
 
     \chapter{Conclusiones}
-
 \end{document}
