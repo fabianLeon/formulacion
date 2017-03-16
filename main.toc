@@ -1,0 +1,37 @@
+\select@language {spanish}
+\contentsline {chapter}{\numberline {1}Identificaci\IeC {\'o}n del Bien}{3}
+\contentsline {section}{\numberline {1.1}Usos}{3}
+\contentsline {section}{\numberline {1.2}Usuarios}{3}
+\contentsline {section}{\numberline {1.3}Presentaci\IeC {\'o}n}{3}
+\contentsline {section}{\numberline {1.4}Producto}{4}
+\contentsline {section}{\numberline {1.5}Sustitutos}{4}
+\contentsline {section}{\numberline {1.6}Complementarios}{4}
+\contentsline {section}{\numberline {1.7}Insumos}{5}
+\contentsline {section}{\numberline {1.8}Precio}{5}
+\contentsline {section}{\numberline {1.9}DOFA}{5}
+\contentsline {chapter}{\numberline {2}La demanda}{6}
+\contentsline {section}{\numberline {2.1}Variables}{6}
+\contentsline {section}{\numberline {2.2}\IeC {\'A}rea de mercado}{6}
+\contentsline {section}{\numberline {2.3}Comportamiento hist\IeC {\'o}rico}{7}
+\contentsline {section}{\numberline {2.4}Segmentaci\IeC {\'o}n de mercado}{7}
+\contentsline {subsection}{\numberline {2.4.1}Potencial n\IeC {\'u}mero de compradores}{7}
+\contentsline {subsection}{\numberline {2.4.2}Lugares de venta}{7}
+\contentsline {subsection}{\numberline {2.4.3}Motivaci\IeC {\'o}n de compra}{7}
+\contentsline {subsection}{\numberline {2.4.4}Caracter\IeC {\'\i }sticas de los compradores}{7}
+\contentsline {section}{\numberline {2.5}Consumo aparente}{8}
+\contentsline {section}{\numberline {2.6}Estimaci\IeC {\'o}n de la demanda futura}{8}
+\contentsline {chapter}{\numberline {3}La oferta}{9}
+\contentsline {chapter}{\numberline {4}Precio}{10}
+\contentsline {section}{\numberline {4.1}Competencia}{10}
+\contentsline {section}{\numberline {4.2}Tipos de cestos encontrados}{10}
+\contentsline {section}{\numberline {4.3}Materiales}{11}
+\contentsline {section}{\numberline {4.4}Elecci\IeC {\'o}n del precio}{11}
+\contentsline {chapter}{\numberline {5}Comercializaci\IeC {\'o}n}{12}
+\contentsline {section}{\numberline {5.1}\IeC {\textquestiondown }Cu\IeC {\'a}l es el grado de concentraci\IeC {\'o}n geogr\IeC {\'a}fica del mercado?}{12}
+\contentsline {section}{\numberline {5.2}\IeC {\textquestiondown }Qu\IeC {\'e} tipo de distribuidores existen?}{12}
+\contentsline {section}{\numberline {5.3}\IeC {\textquestiondown }Cu\IeC {\'a}les son los mecanismos usados en las ventas?}{13}
+\contentsline {section}{\numberline {5.4}\IeC {\textquestiondown }Cu\IeC {\'a}les son los compradores principales y d\IeC {\'o}nde est\IeC {\'a}n localizados?}{13}
+\contentsline {section}{\numberline {5.5}\IeC {\textquestiondown }Cu\IeC {\'a}les son las normas vigentes con respecto a los comercializadores?}{13}
+\contentsline {section}{\numberline {5.6}Transporte y Publicidad}{13}
+\contentsline {section}{\numberline {5.7}Margen de Ganancia}{14}
+\contentsline {section}{\numberline {5.8}conclusiones}{14}
